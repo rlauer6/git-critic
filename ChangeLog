@@ -1,0 +1,7 @@
+Mon Feb 26 13:42:07 2024  Rob Lauer  <rlauer6@comcast.net>
+
+	[BigBang]:
+	* README.md: new
+	* ChangeLog: new
+	* git-critic.pl: new
+	* git-critic-analyze.pl: new
